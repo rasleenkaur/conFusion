@@ -19,9 +19,12 @@
     background-color: #9575CD;
     color:floralwhite;
 }
-.address{
+address{
     margin:0px;
     font-size: 80%;
     color:#0f0f0f;
 
+}
+p{
+    .d-none .d-sm-block;
 }
